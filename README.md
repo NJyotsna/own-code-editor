@@ -55,7 +55,7 @@ git clone https://github.com/your-username/own-code-editor.git
 cd own-code-editor
 ```
 
-Open ![index.html] in your browser.
+Open [index.html] (index.html) in your browser.
 That’s it – no installation required!
 
 
@@ -73,8 +73,8 @@ Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
 
-## **Author**
-Nadisetti Jyotsna
+## ✍️**Author**
+[Nadisetti Jyotsna] (https://github.com/NJyotsna)
 
 
 ## 📜**License**
