@@ -1,11 +1,11 @@
-####**Own Code Editor - Live in the browser.**
+#### **Own Code Editor - Live in the browser.**
 
 A simple, browser-based HTML/CSS/JS code editor built using Ace Editor.
 
 It allows you to write, edit, and run web projects directly in your browser without installing any IDE.
 
 
-####🔗**Live Demo**: 
+#### 🔗**Live Demo**: 
 Try it here [https://njyotsna.github.io/own-code-editor/]
 
 
@@ -15,7 +15,7 @@ Try it here [https://njyotsna.github.io/own-code-editor/]
 
 
 
-####**About the Project**
+#### **About the Project**
 
 When I was in my first year of B.Tech, I struggled to figure out how and where to run HTML, CSS, and JavaScript, and I didn’t know how to link files properly. At that time, I was only familiar with Java and Python, so web development felt confusing.
 
@@ -23,7 +23,7 @@ I built this Own Code Editor to make learning and experimenting with web develop
 
 
 
-####✨**Features**
+#### ✨**Features**
 
 📝 Separate editors for HTML, CSS, and JavaScript.
 
@@ -46,7 +46,7 @@ Run Locally
 
 
 
-####**Clone this repo:**
+#### **Clone this repo:**
 
 git clone https://github.com/your-username/own-code-editor.git
 cd own-code-editor
@@ -57,13 +57,13 @@ That’s it – no installation required!
 
 
 
-####📸**Screenshots**
+#### 📸**Screenshots**
 
 <img width="1919" height="887" alt="image" src="https://github.com/user-attachments/assets/16c9eef5-2786-451d-bec9-e6e48f1bda24" />
 
 
 
-####🤝**Contributing**
+#### 🤝**Contributing**
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
