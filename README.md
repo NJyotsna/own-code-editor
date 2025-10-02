@@ -55,7 +55,7 @@ git clone https://github.com/your-username/own-code-editor.git
 cd own-code-editor
 ```
 
-Open [index.html] (index.html) in your browser.
+Open index.html in your browser.
 That’s it – no installation required!
 
 
