@@ -50,7 +50,7 @@ Run Locally
 
 ## **Clone this repo:**
 
-
+```
 git clone https://github.com/your-username/own-code-editor.git
 cd own-code-editor
 
