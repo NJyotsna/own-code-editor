@@ -37,9 +37,9 @@ I built this Own Code Editor to make learning and experimenting with web develop
 
 ⌨️ Keyboard Shortcuts:
 
-Ctrl + Enter / Cmd + Enter → Run code
+`Ctrl` + `Enter` / `Cmd` + `Enter` → Run code
 
-Ctrl + S / Cmd + S → Save project
+`Ctrl` + `S` / `Cmd` + `S` → Save project
 
 🧹 Clearable console output with logs, warnings, and errors.
 
@@ -53,7 +53,7 @@ Run Locally
 ```
 git clone https://github.com/your-username/own-code-editor.git
 cd own-code-editor
-
+```
 
 Open index.html in your browser.
 That’s it – no installation required!
